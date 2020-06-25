@@ -1,4 +1,4 @@
-package com.abunayla.shoppinglist
+package com.abunayla.shoppinglist.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

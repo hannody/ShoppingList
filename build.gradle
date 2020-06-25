@@ -53,9 +53,6 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 
     //Kapt
-    //https://kotlinlang.org/docs/reference/kapt.html
-    kapt("groupId:artifactId:version")
-
     //https://developer.android.com/jetpack/androidx/releases/lifecycle
     kapt "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
 

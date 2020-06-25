@@ -1,7 +1,8 @@
-package com.abunayla.shoppinglist
+package com.abunayla.shoppinglist.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.abunayla.shoppinglist.data.db.entities.ShoppingItem
 
 
 //Data Access Object DAO
